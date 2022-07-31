@@ -1,3 +1,4 @@
 # Pensamento-Computacional-
-Jogo feito com os passos do Alura.
-https://editor.p5js.org/felipewendl/sketches/cPVn3A-RM
+Jogo feito com o propósito de conscientizar crianças e até mesmo adultos sobre as leis de trânsito.
+https://editor.p5js.org/felipewendl/sketches/MOBlnCw_U
+https://editor.p5js.org/felipewendl/sketches/Js5SeKNb2
